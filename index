@@ -5,7 +5,7 @@
       </head> 
    <body>
       <header>   
-      <h1>Seu Blog Pessoal</h1>
+      <h1> Meu Blog Pessoal  :) </h1>
       <nav>
          <a href=”dominio.tld/home”>Início</a>
          <a href=”dominio.tld/blog”>Blog</a>
@@ -18,7 +18,7 @@
                <h1>Postagem Mais Recente</h1>
                <section>
                   <h1>Primeira Postagem</h1>
-                  <p>O conteúdo do primeiro post</p>
+                  <p> Olá, Sou o Kauan, gosto de ouvir musicas e sou torcedor fanatico do Real Madrid </p>
                </section>
             </div>
             <div class=”profile”>
